@@ -6,7 +6,15 @@ import re
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
     "https://github.com/ICEZOMBIE-m3u/Private-m3u-2/raw/refs/heads/main/Playlists/300rip-wo-events.m3u8",
-    "",
+    "https://github.com/ICEZOMBIE-m3u/Private-m3u-2/raw/refs/heads/main/Playlists/Xumo.m3u8",
+    "https://github.com/ICEZOMBIE-m3u/Private-m3u-2/raw/refs/heads/main/Playlists/dancetv.m3u8"
+    "https://github.com/ICEZOMBIE-m3u/Private-m3u-2/raw/refs/heads/main/Playlists/direct.m3u8"
+    "https://github.com/ICEZOMBIE-m3u/Private-m3u-2/raw/refs/heads/main/Playlists/plutogb.m3u8"
+    "https://github.com/ICEZOMBIE-m3u/Private-m3u-2/raw/refs/heads/main/Playlists/plutous.m3u8"
+    "https://github.com/ICEZOMBIE-m3u/Private-m3u-2/raw/refs/heads/main/Playlists/roku.m3u8"
+    "https://github.com/ICEZOMBIE-m3u/Private-m3u-2/raw/refs/heads/main/Playlists/samsunggb.m3u8"
+    "https://github.com/ICEZOMBIE-m3u/Private-m3u-2/raw/refs/heads/main/Playlists/samsungus.m3u8"
+    "https://github.com/ICEZOMBIE-m3u/Private-m3u-2/raw/refs/heads/main/Playlists/247.m3u"
     ""
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
