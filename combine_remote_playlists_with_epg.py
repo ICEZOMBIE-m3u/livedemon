@@ -20,7 +20,7 @@ PLAYLISTS = [
 ]
 
 # EPG URL
-EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+EPG_URL = "https://github.com/ICEZOMBIE-m3u/epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
 
 # Output file
 OUTPUT_FILE = "combined_playlist.m3u"
